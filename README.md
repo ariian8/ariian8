@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ariian8
 - 👀 I’m interested in movies 
 - 🌱 I’m currently learning programing and german 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ariyanbakhtiyarinasab@gmail.com
 
 
